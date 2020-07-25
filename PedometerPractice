@@ -1,0 +1,17 @@
+def steps_to_miles():
+steps=int(input('Enter Steps:'));
+
+#Calculate the steps to miles
+mile=steps/2000
+return mile
+
+def start_day
+day=int(input('Enter start_day:'));
+#Provide the start day such as day 0, 1, 2, 3 etc
+return start_day
+
+print("steps_to_miles: (), start_day: ()")
+
+print('Congrats here is your prize,You walked, steps_to_miles()>=5miles)
+Print('steps not reached and points deducted'=steps_to_miles()<5miles)
+Print('congrats, here is your prize',=steps_to_miles()=5miles)
